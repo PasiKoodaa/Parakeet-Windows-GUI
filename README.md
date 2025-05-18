@@ -34,13 +34,17 @@ A GUI application for transcribing audio files using Parakeet TDT and CTC models
    git clone https://github.com/PasiKoodaa/Parakeet-Windows-GUI
    cd Parakeet-Windows-GUI
    ```
+2. Install torch from
+   ```bash
+   https://pytorch.org/get-started/locally/
+   ```
 
-2. Install the required dependencies:
+4. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Download the ASR models and place them in the `models/ASR` directory:
+5. Download the ASR models and place them in the `models/ASR` directory:
    - `nemo-parakeet_tdt_ctc_110m.onnx`
    - `parakeet-tdt-0.6b-v2_decoder.onnx`
    - `parakeet-tdt-0.6b-v2_encoder.onnx`
