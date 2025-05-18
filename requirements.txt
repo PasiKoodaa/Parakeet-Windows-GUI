@@ -1,0 +1,9 @@
+numpy
+soundfile
+pydantic
+pyyaml
+numba
+loguru
+librosa
+onnxruntime-gpu
+psutil
