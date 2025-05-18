@@ -1,8 +1,8 @@
 # Parakeet-Windows-GUI
 
 A GUI application for transcribing audio files using Parakeet TDT and CTC models, with support for CUDA acceleration and timestamp generation.
+![parakeet-GUI](https://github.com/user-attachments/assets/8a88c602-2b85-4c39-9df0-64e27a102f25)
 
-![App Screenshot](screenshot.png) *Example screenshot of the application*
 
 ## Features
 
