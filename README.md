@@ -34,7 +34,13 @@ A GUI application for transcribing audio files using Parakeet TDT and CTC models
    git clone https://github.com/PasiKoodaa/Parakeet-Windows-GUI
    cd Parakeet-Windows-GUI
    ```
-2. Install torch from
+2. Create a conda environment
+   ```bash
+   conda create --name Parakeet-Windows-GUI python=3.11
+   activate Parakeet-Windows-GUI 
+   ```
+   
+3. Install torch from
    ```bash
    https://pytorch.org/get-started/locally/
    ```
